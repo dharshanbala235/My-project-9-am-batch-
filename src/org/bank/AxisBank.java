@@ -6,7 +6,10 @@ public class AxisBank extends BankInfo
 	{
 		System.out.println("Deposit rate of interest is 4%");
 		System.out.println("Sample111");
-		stem.out.println("Sample");
+		
+	}
+	public void sample() {
+	System.out.println("sample method");
 	}
 public static void main(String[] args) 
 {
